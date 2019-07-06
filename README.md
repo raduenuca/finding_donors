@@ -20,3 +20,7 @@ This project uses the following software and Python libraries:
 You also need to have additional software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html).
 
 If you do not have Python installed, I highly recommend installing the [Anaconda](https://www.anaconda.com/distribution/) distribution of Python, which already has the above packages and more included.
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
