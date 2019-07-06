@@ -6,3 +6,17 @@ CharityML is a fictitious charity organization located in the heart of Silicon V
 ## Project goal
 
 CharityML wants to build an algorithm to identify the best potential donors and reduce the overhead cost of sending mail. The goal of this project is to evaluate and optimize several different supervised learners to determine which algorithm is going to provide the highest donation yield while also reducing the total number of letters being sent.
+
+## Software and Libraries
+
+This project uses the following software and Python libraries:
+
+* [Python](https://www.python.org/downloads/release/python-364/)
+* [NumPy](http://www.numpy.org/)
+* [pands](https://pandas.pydata.org/)
+* [scikit-learn](https://scikit-learn.org/0.17/install.html) (v0.17)
+* [Matplotlib](https://matplotlib.org/)
+
+You also need to have additional software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html).
+
+If you do not have Python installed, I highly recommend installing the [Anaconda](https://www.anaconda.com/distribution/) distribution of Python, which already has the above packages and more included.
