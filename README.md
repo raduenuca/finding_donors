@@ -35,7 +35,7 @@ This project uses the following software and Python libraries:
 
 * [Python](https://www.python.org/downloads/release/python-364/)
 * [NumPy](http://www.numpy.org/)
-* [pands](https://pandas.pydata.org/)
+* [pandas](https://pandas.pydata.org/)
 * [scikit-learn](https://scikit-learn.org/0.17/install.html)
 * [Matplotlib](https://matplotlib.org/)
 
